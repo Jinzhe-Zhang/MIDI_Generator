@@ -12,9 +12,9 @@ And finally, it comes true.
 
 I have made the [MIDI_Generator](midi生成器.rb) (the "exe" file is [Here](midi生成器.exe)) to convert the ".txt" into ".mid"
 
-[This](ygccxdyhzc.txt) is my music score, and [This](ygccxdyhzc.mid) is my music file(have converted to mp4 ).
+[This](ygccxdyhzc.txt) is my music score, and [This](ygccxdyhzc.mid) is my music file。[This](月光摧残下的樱花战场.wav) is my final works.
 
-
+All files in the root directory are tutorials for how to write a music score txt
 
 
 
